@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on my Agora chaussures as a software developer.
 - 🌱 I’m learning more about automation with GitHub Actions and the GitHub API.
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moussi0amine)
 
 <!-- Optional: more sections: languages, pinned repos, blog, now-playing -->
