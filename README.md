@@ -1,4 +1,4 @@
-# Hi, I'm Moussi Amine 👋
+# Hi, I'm Moussi Mohamed Amine a junior developer👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Moussi0amine)](https://git.io/streak-stats)
 
